@@ -4,7 +4,7 @@
   "description": "Child microfrontend to be consumed by other container",
   "main": "index.js",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack serve"
   },
   "keywords": [],
   "author": "",
